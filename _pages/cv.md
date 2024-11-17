@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Computer Science, University of Illinois at Urbana-Champaign, 2027 (expected)
+* B.S. in Computer Science, University of Wisconsin-Madison, 2021
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  [Offloading Visual-Inertial Odometry for Low Power Extended Reality](https://ieeexplore.ieee.org/document/10108688)<br>
+  __Jiang, Q.__ and Huzaifa, M. and Sentosa, W. and Zhang, J. and Gao, S. and Pang, Y. and Godfrey B. and
+  Adve, S<br>
+  _IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)_, 2023.
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* _Composable Hardware Acceleration for Immersive Computing_
+  * Agile Software-Hardware Co-Design of AI-Centric Heterogeneous SoCs (EPOCHS) tutorial, held in conjunction with the 51st International Symposium on Computer Architecture (__ISCA__), June 2024.
+
+Teaching experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Jan. 19 - Dec. 19: Undergraduate Peer Mentor
+  * CS 354 Machine Organization and Programming at UW-Madison
+  * Duties includes: Led discussions, study groups, and exam reviews for a course of 450 students
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Saburo Muroga Endowed Fellowship, 2021-2022, UIUC
+* Trewartha Senior Honors Thesis Research Award, Spring 2021, UW-Madison, advised by [Prof. Matt Sinclair](https://pages.cs.wisc.edu/~sinclair/)
+* Dean’s List for 5 semesters, UW-Madison
+
+Skills
+======
+* Programming: C/C++, Python, Shell Scripting
+
+Please email me for the pdf version. 
