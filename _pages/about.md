@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome
-======
 I am a fourth-year Ph.D. candidate in the Department of Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC), advised by [Prof. Sarita V. Adve](http://sadve.cs.illinois.edu/). Before joining UIUC, I received my Bachelor's degree in Computer Science from University of Wisconsin-Madison.
 
 Research Interests
