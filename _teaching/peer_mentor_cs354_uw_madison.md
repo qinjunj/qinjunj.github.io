@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/peer_mentor_cs354_uw_madison
 venue: "University of Wisconsin-Madison, Computer Science"
-date: 2019-01
+date: 2019-01-01
 location: "Madison, WI"
 ---
 
