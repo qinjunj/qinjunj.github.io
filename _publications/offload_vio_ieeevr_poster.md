@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/offload_vio_ieeevr_poster
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-03
+date: 2023-03-30
 venue: 'IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)'
 slidesurl: 
 paperurl: 'https://ieeexplore.ieee.org/document/10108688'
