@@ -18,10 +18,13 @@ Publications
 ======
   [RemoteVIO: Offloading Head Tracking in an End-to-End XR System](https://rsim.cs.illinois.edu/Pubs/25-MMSys-RemoteVIO.pdf)<br>
   __Q. Jiang__, Y. Pang, W. Sentosa, S. Gao, M. Huzaifa, J. Zhang, J. Perez-Ramirez, D. Das, D. Cavalcanti, B. Godfrey, S. Adve<br>
-  [WarpLab: Evaluating Edge-Assisted Rendering Offload for Low Power Extended Reality Devices](https://rsim.cs.illinois.edu/Pubs/25-MMSys-WarpLab.pdf)
-  S. Gao, J. Liu, __Q. Jiang__, F. Sinclair, W. Sentosa, B. Godfrey, S. Adve
-  [Is WTSN the missing piece for low latency in general-purpose Wi-Fi?](https://dl.acm.org/doi/10.1145/3708468.3711879)
-  M. K. Vaddiraju, W. Sentosa, __Q. Jiang__, S. Adve, D. Cavalcanti, D. Das, B. Godfrey, J. Ramirez-Perez, D. Vasisht
+  _To appear in the Proceedings of 16th ACM Multimedia System Conference (MMSys), 2025_.<br>
+  [WarpLab: Evaluating Edge-Assisted Rendering Offload for Low Power Extended Reality Devices](https://rsim.cs.illinois.edu/Pubs/25-MMSys-WarpLab.pdf)<br>
+  S. Gao, J. Liu, __Q. Jiang__, F. Sinclair, W. Sentosa, B. Godfrey, S. Adve<br>
+  _To appear in the Proceedings of 16th ACM Multimedia System Conference (MMSys), 2025_.<br>
+  [Is WTSN the missing piece for low latency in general-purpose Wi-Fi?](https://dl.acm.org/doi/10.1145/3708468.3711879)<br>
+  M. K. Vaddiraju, W. Sentosa, __Q. Jiang__, S. Adve, D. Cavalcanti, D. Das, B. Godfrey, J. Ramirez-Perez, D. Vasisht<br>
+  _International Workshop on Mobile Computing Systems and Applications (__HotMobile__), 2025_.<br>
   [Offloading Visual-Inertial Odometry for Low Power Extended Reality](https://ieeexplore.ieee.org/document/10108688)<br>
   __Q. Jiang__, M. Huzaifa, W. Sentosa, J. Zhang, S. Gao, Y. Pang, B. Godfrey, S. Adve<br>
   _IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)_, 2023.
